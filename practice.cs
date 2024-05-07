@@ -26,3 +26,13 @@
             Console.WriteLine("| | ) |");
             Console.WriteLine("(_ /");
 
+// variables
+      // Create Variables
+      string name = "Shadow";
+      string breed = "Golden Retriever";
+      int age = 5;
+      double weight = 65.22;
+      bool spayed = true;
+
+      // Print variables to the console
+      Console.WriteLine($"name: {name}, breed: {breed}, age: {age}, weight: {weight}, spayed: {spayed}");
